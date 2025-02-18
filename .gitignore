@@ -1,1 +1,26 @@
 .idea/
+frontend/taskrui/node_modules/
+backend/target/
+
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+frontend/taskrui/.pnp
+.pnp.js
+
+# testing
+frontend/taskrui/coverage
+
+# production
+frontend/taskrui/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
