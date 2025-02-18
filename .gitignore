@@ -1,18 +1,16 @@
 .idea/
-frontend/taskrui/node_modules/
-backend/target/
+**/ui/node_modules/
+**/ui/build/
+app/target/
 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
-frontend/taskrui/.pnp
+app/ui/.pnp
 .pnp.js
 
 # testing
-frontend/taskrui/coverage
-
-# production
-frontend/taskrui/build
+app/ui/coverage
 
 # misc
 .DS_Store
