@@ -20,5 +20,5 @@ http://localhost:8080
 
 ## Frontend DevMode:
 ```shell
-cd ./taskr/frontend/taskrui/ && npm start
+cd ~/repo/taskr/app/src/main/ui/ && npm start
 ```
